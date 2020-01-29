@@ -1,0 +1,49 @@
+body {
+  background-image: url("/images/bckimg.jpg");
+}
+
+.container-fluid {
+  margin-top: 150px;
+  display: inline-block;
+}
+
+#q {
+  text-align: center;
+  font-weight: bold;
+}
+
+.options {
+  margin-right: 50px;
+}
+
+.xxx {
+  display: inline;
+}
+
+.col {
+  padding: 25px 0;
+  display: inline-block;
+}
+
+.col:hover{
+  background-color: #d9dedb;
+}
+
+.container {
+  padding: 3% 15%;
+  visibility: hidden;
+}
+
+.start {
+  visibility: visible;
+}
+
+.submit {
+  align-content: center;
+  margin-top: 25px;
+}
+
+.sub {
+  text-align: center;
+  visibility: hidden;
+}
